@@ -2,3 +2,5 @@ app.py
 __pycache__/streamlit.cpython-314.pyc
 __pycache__/app.cpython-314.pyc
 creditcard.csv
+Movie_RatingPrediction/IMDb Movies India.csv.zip
+Movie_RatingPrediction/IMDb Movies India.csv
